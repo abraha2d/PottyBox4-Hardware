@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Breakouts")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/Breakouts/Breakouts.lib")(options "")(descr ""))
+  (lib (name "ESP32-WROVER-B_(16MB)")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/ESP32-WROVER-B_(16MB)/ESP32-WROVER-B_(16MB).lib")(options "")(descr ""))
 )
