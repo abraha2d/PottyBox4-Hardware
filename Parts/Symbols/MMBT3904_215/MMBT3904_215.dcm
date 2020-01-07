@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT3904,215
+D MMBT3904 - NPN switching transistor
+K
+F http://assets.nexperia.com/documents/data-sheet/MMBT3904.pdf
+$ENDCMP
+#
+#End Doc Library

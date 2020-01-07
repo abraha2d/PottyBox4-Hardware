@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Breakouts")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/Breakouts.pretty")(options "")(descr ""))
   (lib (name "ESP32-WROVER-B_(16MB)")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/ESP32-WROVER-B_(16MB).pretty")(options "")(descr ""))
+  (lib (name "MMBT3904_215")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/MMBT3904_215.pretty")(options "")(descr ""))
 )
