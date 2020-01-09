@@ -5,4 +5,5 @@
   (lib (name "RS207M")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/RS207M.pretty")(options "")(descr ""))
   (lib (name "G3VM-61VY3(TR05)")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/G3VM-61VY3(TR05).pretty")(options "")(descr ""))
   (lib (name "CPC1998J")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/CPC1998J.pretty")(options "")(descr ""))
+  (lib (name "SparkFun-Connectors")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/SparkFun-Connectors.pretty")(options "")(descr ""))
 )

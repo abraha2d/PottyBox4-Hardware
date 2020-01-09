@@ -5,4 +5,5 @@
   (lib (name "RS207M")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/RS207M/RS207M.lib")(options "")(descr ""))
   (lib (name "G3VM-61VY3(TR05)")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/G3VM-61VY3(TR05)/G3VM-61VY3(TR05).lib")(options "")(descr ""))
   (lib (name "CPC1998J")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/CPC1998J/CPC1998J.lib")(options "")(descr ""))
+  (lib (name "SparkFun-Connectors")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/SparkFun-Connectors/SparkFun-Connectors.lib")(options "")(descr ""))
 )
