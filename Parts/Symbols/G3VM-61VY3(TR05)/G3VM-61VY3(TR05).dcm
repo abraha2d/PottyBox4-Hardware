@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G3VM-61VY3(TR05)
+D OMRON - G3VM-61VY3(TR05) - MOSFET RELAY, SPST-NO, 0.7A, 60V, SOP
+K
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-sdbt-022c.pdf
+$ENDCMP
+#
+#End Doc Library

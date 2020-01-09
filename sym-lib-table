@@ -2,4 +2,7 @@
   (lib (name "Breakouts")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/Breakouts/Breakouts.lib")(options "")(descr ""))
   (lib (name "ESP32-WROVER-B_(16MB)")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/ESP32-WROVER-B_(16MB)/ESP32-WROVER-B_(16MB).lib")(options "")(descr ""))
   (lib (name "MMBT3904_215")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/MMBT3904_215/MMBT3904_215.lib")(options "")(descr ""))
+  (lib (name "RS207M")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/RS207M/RS207M.lib")(options "")(descr ""))
+  (lib (name "G3VM-61VY3(TR05)")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/G3VM-61VY3(TR05)/G3VM-61VY3(TR05).lib")(options "")(descr ""))
+  (lib (name "CPC1998J")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/CPC1998J/CPC1998J.lib")(options "")(descr ""))
 )

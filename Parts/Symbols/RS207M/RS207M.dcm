@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RS207M
+D Bridge Rectifiers Lead Frame 2A 1000V
+K
+F http://www.rectron.com/data_sheets/rs201m-rs207m.pdf
+$ENDCMP
+#
+#End Doc Library
