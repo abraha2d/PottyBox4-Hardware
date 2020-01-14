@@ -6,4 +6,5 @@
   (lib (name "G3VM-61VY3(TR05)")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/G3VM-61VY3(TR05)/G3VM-61VY3(TR05).lib")(options "")(descr ""))
   (lib (name "CPC1998J")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/CPC1998J/CPC1998J.lib")(options "")(descr ""))
   (lib (name "SparkFun-Connectors")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/SparkFun-Connectors/SparkFun-Connectors.lib")(options "")(descr ""))
+  (lib (name "ASMB-KTF0-0A306")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/ASMB-KTF0-0A306/ASMB-KTF0-0A306.lib")(options "")(descr ""))
 )
