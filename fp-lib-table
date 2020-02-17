@@ -7,4 +7,5 @@
   (lib (name "CPC1998J")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/CPC1998J.pretty")(options "")(descr ""))
   (lib (name "SparkFun-Connectors")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/SparkFun-Connectors.pretty")(options "")(descr ""))
   (lib (name "ASMB-KTF0-0A306")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/ASMB-KTF0-0A306.pretty")(options "")(descr ""))
+  (lib (name "PTS526_SMG15_SMTR2_LFS")(type "KiCad")(uri "${KIPRJMOD}/Parts/Footprints/PTS526_SMG15_SMTR2_LFS.pretty")(options "")(descr ""))
 )

@@ -7,4 +7,5 @@
   (lib (name "CPC1998J")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/CPC1998J/CPC1998J.lib")(options "")(descr ""))
   (lib (name "SparkFun-Connectors")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/SparkFun-Connectors/SparkFun-Connectors.lib")(options "")(descr ""))
   (lib (name "ASMB-KTF0-0A306")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/ASMB-KTF0-0A306/ASMB-KTF0-0A306.lib")(options "")(descr ""))
+  (lib (name "PTS526_SMG15_SMTR2_LFS")(type "Legacy")(uri "${KIPRJMOD}/Parts/Symbols/PTS526_SMG15_SMTR2_LFS/PTS526_SMG15_SMTR2_LFS.lib")(options "")(descr ""))
 )
