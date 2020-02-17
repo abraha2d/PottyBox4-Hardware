@@ -776,17 +776,17 @@ EN
 Text Label 7500 3300 0    50   ~ 0
 IO15
 Text Label 7500 3400 0    50   ~ 0
-SHUT1
+LED_S1
 Text Label 7500 3500 0    50   ~ 0
 IO0
 Text Label 7500 3600 0    50   ~ 0
-SHUT2
-Text Label 7500 3900 0    50   ~ 0
 INT1
+Text Label 7500 3900 0    50   ~ 0
+SHUT1
 Text Label 7500 4000 0    50   ~ 0
-INT2
+LED_S2
 Text Label 7500 4100 0    50   ~ 0
-LED_S1
+INT2
 Text Label 7500 4300 0    50   ~ 0
 SDA
 Text Label 7500 4400 0    50   ~ 0
@@ -796,7 +796,7 @@ TXD0
 Text Label 7500 4600 0    50   ~ 0
 SCL
 Text Label 7500 4700 0    50   ~ 0
-LED_S2
+SHUT2
 Text Label 8600 5400 2    50   ~ 0
 FLUSH1
 Text Label 8600 6050 2    50   ~ 0
