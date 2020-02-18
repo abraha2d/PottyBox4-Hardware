@@ -730,9 +730,9 @@ SDA
 Text Label 2050 7150 0    50   ~ 0
 TOUCH2
 Text Label 2650 1600 0    50   ~ 0
-24VAC2
-Text Label 2650 1700 0    50   ~ 0
 24VAC1
+Text Label 2650 1700 0    50   ~ 0
+24VAC2
 Text Label 3050 6350 0    50   ~ 0
 SCL
 Text Label 3050 6450 0    50   ~ 0
