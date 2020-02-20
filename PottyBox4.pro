@@ -1,10 +1,8 @@
-update=Wed 19 Feb 2020 03:53:21 PM EST
+update=Wed 19 Feb 2020 09:07:27 PM EST
 last_client=kicad
 [general]
 version=1
 [SchematicFrame]
-version=1
-[ModEditFrame]
 version=1
 [pcbnew]
 version=1
@@ -241,3 +239,5 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[ModEditFrame]
+version=1
