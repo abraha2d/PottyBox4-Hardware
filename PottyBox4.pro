@@ -1,8 +1,10 @@
-update=Tue 18 Feb 2020 01:06:03 PM EST
+update=Wed 19 Feb 2020 03:53:21 PM EST
 last_client=kicad
 [general]
 version=1
 [SchematicFrame]
+version=1
+[ModEditFrame]
 version=1
 [pcbnew]
 version=1
@@ -30,6 +32,8 @@ TrackWidth1=0.25
 TrackWidth2=1
 ViaDiameter1=0.8
 ViaDrill1=0.4
+ViaDiameter2=4.5
+ViaDrill2=4.25
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -237,5 +241,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[ModEditFrame]
-version=1

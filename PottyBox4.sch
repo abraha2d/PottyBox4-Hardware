@@ -740,9 +740,9 @@ SDA
 Text Label 3300 3300 2    50   ~ 0
 EN
 Text Label 3300 3800 2    50   ~ 0
-TOUCH2
-Text Label 3300 3900 2    50   ~ 0
 TOUCH1
+Text Label 3300 3900 2    50   ~ 0
+TOUCH2
 Text Label 3300 4000 2    50   ~ 0
 FLUSH1
 Text Label 3300 4100 2    50   ~ 0
