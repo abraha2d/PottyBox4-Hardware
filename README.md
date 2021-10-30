@@ -1,3 +1,5 @@
+[Schematic](Renders/schematic.pdf)
+
 ![](Renders/main.png)
 
 ![](Renders/front.png)

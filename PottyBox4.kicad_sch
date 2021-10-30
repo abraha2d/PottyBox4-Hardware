@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PottyBox4")
+    (date "2020-03-24")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "Breakouts:Adafruit_CP2104_Breakout" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 6.35 1.27 0)
