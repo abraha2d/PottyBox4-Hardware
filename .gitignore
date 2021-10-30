@@ -1,9 +1,7 @@
-*-cache.lib
-Output
-Output.zip
+*-backups/
 
-# Created by https://www.gitignore.io/api/linux,macos,kicad,windows
-# Edit at https://www.gitignore.io/?templates=linux,macos,kicad,windows
+# Created by https://www.toptal.com/developers/gitignore/api/macos,kicad,linux,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,kicad,linux,windows
 
 ### KiCad ###
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
@@ -13,8 +11,10 @@ Output.zip
 *.000
 *.bak
 *.bck
-*.sch-bak
 *.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
 *~
 _autosave-*
 *.tmp
@@ -34,7 +34,7 @@ fp-info-cache
 *.csv
 
 ### KiCad Patch ###
-escue-backup/
+rescue-backup/
 
 *.tsv
 bom/
@@ -64,6 +64,7 @@ out/
 
 # Icon must end with two \r
 Icon
+
 
 # Thumbnails
 ._*
@@ -110,4 +111,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/linux,macos,kicad,windows
+# End of https://www.toptal.com/developers/gitignore/api/macos,kicad,linux,windows
